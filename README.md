@@ -44,6 +44,7 @@ Aprimorando em qualidade de software e em constante aprendizado na área de test
 - 🚀 Playwright
 - 🚀 Cypress
 - 🚀 Javascript
+- 🚀 Python
 - 🚀 SQL para Validação de Dados
 
 ---
